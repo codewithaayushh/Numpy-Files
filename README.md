@@ -1,1 +1,1 @@
-# Numpy-Files
+NumPy (Numerical Python) is a powerful Python library used for numerical computations, data analysis, and scientific computing. It provides support for large multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on them efficiently.
